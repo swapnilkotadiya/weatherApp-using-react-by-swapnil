@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swapnilkotadiya/weatherApp-using-react-by-swapnil/static/css/main.53403a47.css",
+    "main.js": "/swapnilkotadiya/weatherApp-using-react-by-swapnil/static/js/main.77c85920.js",
+    "static/js/787.d62d1c65.chunk.js": "/swapnilkotadiya/weatherApp-using-react-by-swapnil/static/js/787.d62d1c65.chunk.js",
+    "index.html": "/swapnilkotadiya/weatherApp-using-react-by-swapnil/index.html",
+    "main.53403a47.css.map": "/swapnilkotadiya/weatherApp-using-react-by-swapnil/static/css/main.53403a47.css.map",
+    "main.77c85920.js.map": "/swapnilkotadiya/weatherApp-using-react-by-swapnil/static/js/main.77c85920.js.map",
+    "787.d62d1c65.chunk.js.map": "/swapnilkotadiya/weatherApp-using-react-by-swapnil/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53403a47.css",
+    "static/js/main.77c85920.js"
+  ]
+}
